@@ -1,0 +1,21 @@
+{
+  "name": "expense-tracker-cli",
+  "version": "1.0.0",
+  "type": "module",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "description": "",
+  "dependencies": {
+    "chalk": "^5.4.1",
+    "commander": "^13.1.0",
+    "fs-extra": "^11.3.0",
+    "inquirer": "^12.5.2",
+    "json2csv": "^6.0.0-alpha.2",
+    "jsoncsv": "^0.1.2"
+  }
+}

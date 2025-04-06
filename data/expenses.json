@@ -1,0 +1,51 @@
+[
+  {
+    "id": "1743948687242",
+    "description": "expense1",
+    "amount": 150,
+    "category": "food",
+    "date": "2025-04-06T14:11:27.242Z"
+  },
+  {
+    "id": "1743949042563",
+    "description": "expense2",
+    "amount": 125,
+    "category": "food",
+    "date": "2025-04-06T14:17:22.563Z"
+  },
+  {
+    "id": "1743949076569",
+    "description": "expense3",
+    "amount": 100,
+    "category": "home",
+    "date": "2025-04-06T14:17:56.569Z"
+  },
+  {
+    "id": "1743949090280",
+    "description": "expense4",
+    "amount": 250,
+    "category": "home",
+    "date": "2025-04-06T14:18:10.280Z"
+  },
+  {
+    "id": "1743949111449",
+    "description": "expense5",
+    "amount": 520,
+    "category": "medicine",
+    "date": "2025-04-06T14:18:31.449Z"
+  },
+  {
+    "id": "1743949135959",
+    "description": "expense6",
+    "amount": 300,
+    "category": "grocery",
+    "date": "2025-04-06T14:18:55.959Z"
+  },
+  {
+    "id": "1743953167863",
+    "description": "expensive expense",
+    "amount": 100000000,
+    "category": "secret",
+    "date": "2025-04-06T15:26:07.863Z"
+  }
+]
