@@ -1,6 +1,7 @@
-# 💸 Expense Tracker CLI (https://github.com/PraveenN1/Expense-Tracker-CLI)
+# 💸 Expense Tracker CLI 
 A simple command-line Expense Tracker built using Node.js, Inquirer and Commander.js. Track your expenses, filter by category or month, and export to CSV!
 
+Project URL -> https://roadmap.sh/projects/expense-tracker
 ---
 
 ## 📦 Features
